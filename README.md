@@ -1,1 +1,2 @@
 # Startup-web-Using-HTML_CSS
+This GitHub repository features the development of a startup website created using HTML and CSS, leveraging resources from Unsplash for high-quality images and Remix Icon for icons. The site serves as a showcase of practical application using HTML and CSS basics, emphasizing its aesthetic appeal and user experience. Visit the live version at (https://startup-using-html-css.netlify.app/) to explore further. Your contributions and feedback are welcomed to enhance this project. Thank you for your interest and support.
